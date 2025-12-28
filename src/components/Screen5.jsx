@@ -34,6 +34,7 @@ export default function Screen5({ onReveal }) {
         Alright, your wait is over!
         <br />
         Here's your surprise<span className="text-white">🎁</span>
+        <p>And Remember Your Sir G Love U More than Anything. I Love U Soooooo Much <span className="text-white">😭😭😭😭😭</span></p>
       </motion.h1>
 
       <motion.div
